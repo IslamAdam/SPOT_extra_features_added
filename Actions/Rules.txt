@@ -1,0 +1,1 @@
+SemMinCredit,12,SemMaxCredit,21,UnivCompulsory,PHYS 101,PHYS 111,CHEM 101,CHEM 111,
